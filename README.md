@@ -1,8 +1,5 @@
-# Arquetipos-
 
-Ha pensado durante 10s
-
-Data Storytelling: La COVID-19 en Cuba a través de cinco arquetipos narrativos
+#Data Storytelling: La COVID-19 en Cuba a través de cinco arquetipos narrativos
 
 La propuesta está organizada siguiendo el modelo que compartiste: cinco historias basadas en datos, cada una construida a partir de un arquetipo narrativo diferente. Las historias recorren distintos momentos de la pandemia en Cuba, desde los primeros registros de 2020 hasta la disminución de los casos y fallecimientos en 2022.
 
