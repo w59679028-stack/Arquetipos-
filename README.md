@@ -1,8 +1,7 @@
 
 #Data Storytelling: La COVID-19 en Cuba a través de cinco arquetipos narrativos
-
-La propuesta está organizada: Cinco historias basadas en datos, cada una construida a partir de un arquetipo narrativo diferente. Las historias recorren distintos momentos de la pandemia en Cuba, desde los primeros registros de 2020 hasta la disminución de los casos y fallecimientos en 2022.
-
-Las cifras proceden principalmente de la Organización Panamericana de la Salud (OPS/OMS). Es importante tener presente que una reducción de casos después de la vacunación no demuestra, por sí sola, que la vacunación haya sido la única causa del descenso
-
- 
+Asignatura: Comunicación en Ciencia de Datos
+Universidad: Universidad de La Habana
+Año: 2026
+Esta versión amplía las cinco historias y añade un reporte crítico individual para cada arquetipo, explicando por qué la narración corresponde a ese modelo y por qué depende de los datos para sostenerse.
+La historia se concentra en el período 2020-2022, cuando la epidemia pasó de sus primeros registros en Cuba a una etapa de transmisión muy intensa y, posteriormente, a una reducción importante de los casos y fallecimientos notificados
